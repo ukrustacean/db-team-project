@@ -34,12 +34,19 @@
 ### Посилання
 
 1.[Зацікавлена сторона](https://en.wikipedia.org/wiki/Stakeholder_(corporate))
+
 2.[Користувач](https://en.wikipedia.org/wiki/User_(computing))
+
 3.[Адміністратор](https://en.wikipedia.org/wiki/Database_administrator)
+
 4.[Система управління бази даних](https://en.wikipedia.org/wiki/Database#Database_management_system)
+
 5.[Відкриті дані](https://en.wikipedia.org/wiki/Open_data)
+
 6.[FURPS](https://en.wikipedia.org/wiki/FURPS)
+
 7.[Обліковий запис](https://en.wikipedia.org/wiki/User_(computing)#User_account)
+
 8.[Інтерфейс користувача](https://en.wikipedia.org/wiki/User_interface)
 
 
