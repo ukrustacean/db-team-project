@@ -454,5 +454,22 @@ TensorFlow застосовується як для досліджень, так
 Таким чином, в умовах динамічного розвитку технологій і зростання вимог до відкритих даних, розробка нових інформаційних систем або модифікація існуючих є важливими для забезпечення високої ефективності, гнучкості та безпеки даних. Проведення аналізу предметної області необхідне для знаходження правильних підходів побудови системи управління відкритими даними та визначення необхідних функцій, які треба реалізувати у даній системі.
 
 ## Посилання
-
-*[Розділ містить повний список всіх документів, про які згадується.]*
+1. [Відкриті дані](https://leadscanner.com.ua/articles/open-data)
+2. [SQL (Structured Query Language)] (https://www.bing.com/ck/a?!&&p=3b144276e772932ae8a56f1d76ff964d64b673a16cedd49f7be90965cb40abd2JmltdHM9MTczMDI0NjQwMA&ptn=3&ver=2&hsh=4&fclid=362a8653-e5e5-6d7c-1f3f-948ae44f6cbd&psq=SQL+(Structured+Query+Language)&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU1FM&ntb=1).
+3. [База даних (англ. Database)](https://apeps.kpi.ua/shco-take-basa-danykh)
+4. [СУБД (Система управління базами даних](https://apeps.kpi.ua/shco-take-basa-danykh)
+5. [РБД (Розподілені бази даних)](https://apeps.kpi.ua/shco-take-basa-danykh)
+6. [Ролева модель доступу (англ. Role-Based Access Control, RBAC)](https://uk.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BE%D0%BC_%D0%BD%D0%B0_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%96_%D1%80%D0%BE%D0%BB%D0%B5%D0%B9)
+7. [Прикладний програмний інтерфейс (англ. Application Programming Interface, API)](https://ua.nesrakonk.ru/application-programming-interface/)
+8. [Нереляційна база даних (англ. Non Relation Data Base)](https://www.google.com/search?q=non+relational+database&oq=no+relation&aqs=chrome.1.69i57j0i10i512j0i512l2j0i10i512l2j0i512l3j0i10i512.5519j0j4&sourceid=chrome&ie=UTF-8)
+9. [Система управління базами даних](https://www.ibm.com/docs/en/zos-basic-skills?topic=zos-what-is-database-management-system)
+10. [Краудсорсинг (англ. Crowdsourcing)](https://novarobota.ua/ua/articles-jobseeker/kraudsorsing-chto-eto-takoe-i-kak-on-rabotaet-v-biznese-413)
+11. [Веб-скрапінг (англ. Web Scraping)](https://apix-drive.com/ua/blog/ecommerce/web-scraping)
+12. [API (Application Programming Interface)](https://www.bing.com/ck/a?!&&p=27462302d85583ebc895bf214994ea30013c1887b98243806e95abe46d9a28d5JmltdHM9MTczMDI0NjQwMA&ptn=3&ver=2&hsh=4&fclid=362a8653-e5e5-6d7c-1f3f-948ae44f6cbd&psq=api&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQVBJ&ntb=1)
+13. [Хмарні технології](https://edin.ua/shho-take-xmarni-texnologi%D1%97-i-navishho-voni-potribni/)
+14. [Реляційна база даних](https://ua5.org/database/189-reljacjjna-baza-danikh.html)
+17. [Нереляційна база даних](https://www.google.com/search?q=non+relational+database&oq=no+relation&aqs=chrome.1.69i57j0i10i512j0i512l2j0i10i512l2j0i512l3j0i10i512.5519j0j4&sourceid=chrome&ie=UTF-8)
+18. [CKAN](https://ckan.org/)
+19. [DATA.GOV](https://data.gov/)
+20. [OpenDataSoft](https://www.opendatasoft.com)
+21. [Socrata](https://dev.socrata.com/)
