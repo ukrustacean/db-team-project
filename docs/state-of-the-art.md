@@ -455,7 +455,7 @@ TensorFlow застосовується як для досліджень, так
 
 ## Посилання
 1. [Відкриті дані](https://leadscanner.com.ua/articles/open-data)
-2. [SQL (Structured Query Language)] (https://www.bing.com/ck/a?!&&p=3b144276e772932ae8a56f1d76ff964d64b673a16cedd49f7be90965cb40abd2JmltdHM9MTczMDI0NjQwMA&ptn=3&ver=2&hsh=4&fclid=362a8653-e5e5-6d7c-1f3f-948ae44f6cbd&psq=SQL+(Structured+Query+Language)&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU1FM&ntb=1).
+2. [SQL (Structured Query Language)](https://www.bing.com/ck/a?!&&p=3b144276e772932ae8a56f1d76ff964d64b673a16cedd49f7be90965cb40abd2JmltdHM9MTczMDI0NjQwMA&ptn=3&ver=2&hsh=4&fclid=362a8653-e5e5-6d7c-1f3f-948ae44f6cbd&psq=SQL+(Structured+Query+Language)&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU1FM&ntb=1).
 3. [База даних (англ. Database)](https://apeps.kpi.ua/shco-take-basa-danykh)
 4. [СУБД (Система управління базами даних](https://apeps.kpi.ua/shco-take-basa-danykh)
 5. [РБД (Розподілені бази даних)](https://apeps.kpi.ua/shco-take-basa-danykh)
