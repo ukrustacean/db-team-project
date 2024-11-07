@@ -8,7 +8,8 @@
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
-
+    
+```plantuml
 @startuml
 
     actor "Гість" as Guest
@@ -47,6 +48,7 @@
     User -u-|> Guest
 
 @enduml
+```
 
 </center>
 
@@ -59,6 +61,7 @@
     padding: 1em;"
 >
 
+```plantuml
 @startuml
 
     actor "Гість" as Guest
@@ -72,6 +75,7 @@
     Guest -u-> GSI   
 
 @enduml
+```
 
 </center>
 
@@ -84,6 +88,7 @@
     padding: 1em;"
 >
 
+```plantuml
 @startuml
 
     actor "Користувач" as User
@@ -106,6 +111,7 @@
     UD .d.> USE:includes
     
 @enduml
+```
 
 </center>
 
@@ -118,6 +124,7 @@
     padding: 1em;"
 >
 
+```plantuml
 @startuml
     
     actor "Адміністратор" as Admin
@@ -139,5 +146,6 @@
     BUU .d.> ASBT:includes
     
 @enduml
+```
 
 </center>
