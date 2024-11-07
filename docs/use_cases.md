@@ -8,7 +8,7 @@
     box-shadow: 0 1px 3px 0 rgba(89,105,129,.05), 0 1px 1px 0 rgba(0,0,0,.025);
     padding: 1em;"
 >
-    
+
 ```plantuml
 @startuml
 
@@ -61,7 +61,6 @@
     padding: 1em;"
 >
 
-```plantuml
 @startuml
 
     actor "Гість" as Guest
@@ -88,7 +87,6 @@
     padding: 1em;"
 >
 
-```plantuml
 @startuml
 
     actor "Користувач" as User
@@ -111,6 +109,7 @@
     UD .d.> USE:includes
     
 @enduml
+
 ```
 
 </center>
