@@ -71,3 +71,11 @@ Category ||--o{ Data : "categorizes"
 ```
 
 </center>
+
+
+<span id="RelationalSchema"></span>
+## Реляційна схема
+![data_model](https://github.com/user-attachments/assets/c561b973-57cb-4650-91f9-7312b1471114)
+
+
+
